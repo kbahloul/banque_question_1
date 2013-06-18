@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1  -->
+<question type="essay">
+    <name>
+      <text>CME4 </text>
+    </name>
+    <questiontext format="html"> 
+      <text>
+    <![CDATA[ 
+	  <font size="5"> 
+Indiquer en utilisant un vocabulaire simple ce qu’est une pile. Préciser la différence qu’il y a entre
+une pile et un accumulateur.
+</font>	
+]]>
+</text>
+    </questiontext>
+    <image>
+<![CDATA[
+]]>
+	</image>
+    <answer fraction="0">
+        <text></text>
+    </answer>
+</question>
+
+<!-- question: 1  -->
+<question type="essay">
+    <name>
+      <text>CME4 </text>
+    </name>
+    <questiontext format="html"> 
+      <text>
+	  <![CDATA[ 
+<font size="5"> 	  
+En vous aidant du texte ci-dessous, des expériences réalisées, des questions précédentes et aussi de vos
+connaissances, indiquer ce qu’il faut pour réaliser une pile.  
+</font>	 
+<p> 
+<font size="4"> 
+Thalès (-640,-550) connaissait la propriété de l’ambre jaune d’attirer les corps léger grace à une « âme vivante » possédée par ces matières. Otto de Guericke
+(1602-1686) crée la première machine capable de créer de l’électricité statique grace à un globe de soufre en mouvement. Christian Huyghens (1629-1695)
+améliore la machine en remplaçant la grosse boule de soufre par une petite sphère d’ambre. Avec Stephen Gray (1666-1736) une étape est franchie ; ce
+savant montre que l’on peut transporter la « vertu électrique » par des fils de soie puis de métal. Au milieu du XVIII-ème siècle, on admettait donc l’existence
+d’un fluide électrique, qui se propageait par des conducteurs et que l’on pouvait même accumuler dans des appareils appelées « bouteille de Leyde » que
+l’on nomme aujourd’hui condensateurs et dont l’invention vers 1745 est due à Von Kleist (1700-1748) et Musschenbroek (1692-1761). Benjamin Franklin
+(1706-1790) donne un théorie complète de cet appareil et, comme Stephen Gray affirme que le fluide ainsi recueilli est de même nature que la foudre. Grace
+à l’invention du paratonnerre et à l’utilisation de cerfs-volants, Franklin a pu capter l’électricité atmosphérique ; c’est ce que réalise aussi Thomas-François
+Dalidard (1703-1779). En 1791, Luigi Galvani (1737-1798), observant les contractions des membres d’une grenouille par interposition d’un arc de métal
+entre deux parties du tronc de l’animal en conclu que les nerfs et les muscles sont chargés d’électricité contraires comme les armatures d’une bouteille de
+Leyde, mais il en resta à la conception de l’électricité animale. Alexandre Volta (1745-1827) dépassa en les rejetant les idées de Galvani ; il remarqua à la
+suite d’expérience faites par Sulzer, que, si l’on place la langue entre deux rondelles constituées par deux métaux différents reliés par un fil conducteur, on
+éprouve une sensation acide ou alcaline suivant l’ordre dans lequel sont placés les deux métaux. Ces expériences le conduisent à une classification des métaux
+du point de vue électrique, et il invente ves 1800, un appareil entièrement nouveau, une pile composée de disque de zinc et de cuivre, chaque couple étant
+séparé du suivant par un carton humide. L’action de cet appareil était celle d’une grande batterie de condensateurs, mais il possédait l’immense avantage
+de se recharger instantanément. On pouvait pouvait ainsi produire à volonté des courants électriques. La découverte de la pile électrique fut une véritable
+révolution dans ce domaine de la physique. En 1866 Georges Leclanché fait breveter une pile au carbonate de cuivre, puis met au point une première pile
+au manganèse en 1867, constitué de dioxyde de manganèse et de zinc. À la fin du XIX ème siècle son fils continue d’améliorer la pile en remplaçant le vase
+poreux par un sac. D’après l’encyclopedia universalis
+</font>
+]]>
+</text>
+    </questiontext>
+    <image>
+<![CDATA[
+]]>
+	</image>
+    <answer fraction="0">
+        <text></text>
+    </answer>
+</question>
+
+
+<!-- question: 1  -->
+  <question type="multichoice">
+    <name>
+      <text>CME4 </text>
+    </name>
+    <questiontext format="html"> 
+      <text>
+	  <![CDATA[ 
+Choisir les bonnes réponses.
+]]>
+
+</text>
+    </questiontext>
+    <image>
+<![CDATA[
+]]>
+	</image>
+    <generalfeedback>
+      <text>
+	  </text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>1</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>none</answernumbering>
+    <answer fraction="100">
+      <text><![CDATA[  Dans un liquide le courant électrique correspond à un déplacement d’ions
+  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[ Dans un liquide le courant électrique correspond à des éclairs moléculaires
+
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+	    <answer fraction="0">
+      <text><![CDATA[ Dans un solide le courant électrique correspond à un déplacement d’ions
+
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+	    <answer fraction="0">
+      <text><![CDATA[  Dans un liquide le courant électrique correspond à un déplacement d’électrons
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+		    <answer fraction="0">
+      <text><![CDATA[  Dans un solide le courant électrique correspond à un déplacement moléculaire
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+		    <answer fraction="100">
+      <text><![CDATA[  Dans un solide le courant électrique correspond à un déplacement d’électrons
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+		    <answer fraction="0">
+      <text><![CDATA[  Dans un solide le courant électrique correspond à des éclairs atomiques
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+		    <answer fraction="0">
+      <text><![CDATA[  Aucune de ces réponses n’est correcte.
+	  ]]></text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  </quiz>
